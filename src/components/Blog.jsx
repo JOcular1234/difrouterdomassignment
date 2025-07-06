@@ -9,7 +9,7 @@ function Blog() {
       </div>
       <div className="content-section">
         <div className="image-section">
-          <img src="/assets/Container33.png" alt="Farming Blog" />
+          <img src="assets/Container33.png" alt="Farming Blog" />
         </div>
         <div className="text-section">
           <h2>Latest Updates</h2>
