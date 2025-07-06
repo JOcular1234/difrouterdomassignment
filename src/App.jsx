@@ -15,7 +15,7 @@ function App() {
       <div className="app-container">
         <div className="nav-container">
           <div className="logo">
-            <img src="/assets/farminglogo.png" alt="Logo" />
+            <img src="assets/farminglogo.png" alt="Logo" />
           </div>
           <nav>
             <ul className="nav-links">
