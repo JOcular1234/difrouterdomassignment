@@ -71,7 +71,7 @@
 .landing-page {
   height: 885px;
   width: 100%;
-  background: url('assets/homefarming.jpg') no-repeat center center/cover;
+  background: url('/assets/homefarming.png') no-repeat center center/cover;
   border-radius: 20px;
   display: flex;
   flex-direction: column;
@@ -130,7 +130,7 @@
   position: relative;
   z-index: 2;
   text-align: start;
-  background: url('assets/manfarming.jpg');
+  background: url('/assets/manfarming.png');
   background-size: cover;   
   background-position: center;
   background-repeat: no-repeat;
