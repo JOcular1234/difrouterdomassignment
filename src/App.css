@@ -130,7 +130,7 @@
   position: relative;
   z-index: 2;
   text-align: start;
-  background-image: url('assets/manfarming.jpg');
+  background: url('assets/manfarming.jpg');
   background-size: cover;   
   background-position: center;
   background-repeat: no-repeat;
