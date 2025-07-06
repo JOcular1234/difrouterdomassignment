@@ -9,7 +9,7 @@ function Services() {
       </div>
       <div className="content-section">
         <div className="image-section">
-          <img src="src/assets/Container.png" alt="Farming Services" />
+          <img src="/assets/Container.png" alt="Farming Services" />
         </div>
         <div className="text-section">
           <h2>What We Offer</h2>

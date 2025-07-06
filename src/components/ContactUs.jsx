@@ -9,7 +9,7 @@ function ContactUs() {
       </div>
       <div className="content-section">
         <div className="image-section">
-          <img src="src/assets/9.png" alt="Contact Farm" />
+          <img src="/assets/9.png" alt="Contact Farm" />
         </div>
         <div className="text-section">
           <h2>Get in Touch</h2>

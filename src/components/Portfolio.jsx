@@ -9,7 +9,7 @@ function Portfolio() {
       </div>
       <div className="content-section">
         <div className="image-section">
-          <img src="src/assets/Container2.png" alt="Farm Portfolio" />
+          <img src="/assets/Container2.png" alt="Farm Portfolio" />
         </div>
         <div className="text-section">
           <h2>Our Projects</h2>

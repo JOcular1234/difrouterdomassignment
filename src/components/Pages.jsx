@@ -9,7 +9,7 @@ function Pages() {
       </div>
       <div className="content-section">
         <div className="image-section">
-          <img src="src/assets/womanfarming.png" alt="Farmer Woman" />
+          <img src="/assets/womanfarming.png" alt="Farmer Woman" />
         </div>
         <div className="text-section">
           <h2>Who We Are</h2>
